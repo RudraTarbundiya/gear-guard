@@ -21,4 +21,10 @@ The goal is to:
 | Preya | preyashah2512@gmail.com |
 | Sneha | snehadodiya1609@gmail.com |
 
+## 🛠️ Main Tech Stack (Main)
 
+- **Frontend:** React.js  
+- **Backend:** Node.js + Express.js  
+- **Database:** MySQL  
+- **Language:** JavaScript (Full Stack)  
+- **API Style:** REST (JSON)
